@@ -1,1 +1,19 @@
-<mxfile host="www.draw.io" modified="2019-10-17T02:58:11.915Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" version="12.1.2" etag="G0L4M5E93vZ8Lh9KN3d1" type="github"><diagram id="aYsEaUvUP0FLvUqn6IlJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-17T03:28:27.102Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="YQe8NDSL6_PZxYrmjmO5" version="12.1.2" type="github" pages="1">
+  <diagram id="aYsEaUvUP0FLvUqn6IlJ" name="第 1 页">
+    <mxGraphModel dx="1178" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="AUpaLKgfqosnF6g_r-Jh-1" value="生产Hbase(组)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="AUpaLKgfqosnF6g_r-Jh-2" value="融灾Hbase组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="AUpaLKgfqosnF6g_r-Jh-6" value="HbaseClient" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
