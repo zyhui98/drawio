@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-21T09:42:17.689Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="0xoyaWcv4RpMA-rZtpE8" version="12.1.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-21T09:43:50.050Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="8mtpeWMoKGCEIuEllZIE" version="12.1.3" type="github" pages="1">
   <diagram id="rlvopRm7BXBtBSCe4tqG" name="第 1 页">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="lHBY-Ies8V-TYgrtDULv-20" value="PG" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="640" y="384" width="60" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="lHBY-Ies8V-TYgrtDULv-22" value="离线包信息:&amp;nbsp; &amp;nbsp;h5Name, pkg_versin, url, sha256, env&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;br&gt;客户端请求参数:&amp;nbsp; plateform, app_code, app_version, env , [{&quot;h5Name&quot;:&quot;&quot;,&quot;pkg_version&quot;:&quot;&quot;}] (全量请求、增量请求)&lt;br&gt;服务端响应内容:&amp;nbsp; [{&quot;h5Name&quot;:&quot;&quot; , &quot;pkg_version&quot;:&quot;&quot; }]" style="shape=callout;html=1;perimeter=calloutPerimeter;align=left;" vertex="1" parent="1">
+        <mxCell id="lHBY-Ies8V-TYgrtDULv-22" value="离线包信息:&amp;nbsp; &amp;nbsp;h5Name, pkg_versin, url, sha256, env&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;br&gt;客户端请求参数:&amp;nbsp; plateform, app_code, app_version, env , [{&quot;h5Name&quot;:&quot;&quot;,&quot;pkg_version&quot;:&quot;&quot;}] (全量请求、增量请求)&lt;br&gt;服务端响应内容:&amp;nbsp; [{&quot;h5Name&quot;:&quot;&quot; , &quot;online_version&quot;:&quot;&quot;,&amp;nbsp; &quot;pkg_url&quot;: &quot;&quot;&amp;nbsp;&lt;span&gt;&amp;nbsp;}]&lt;/span&gt;" style="shape=callout;html=1;perimeter=calloutPerimeter;align=left;" vertex="1" parent="1">
           <mxGeometry x="40" y="560" width="760" height="80" as="geometry"/>
         </mxCell>
       </root>
