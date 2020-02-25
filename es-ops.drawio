@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-25T09:28:37.851Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Ssf3QGoLuFJQtYCjf5FW" version="12.7.4" type="github">
+<mxfile host="www.draw.io" modified="2020-02-25T09:31:29.909Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="yWTc71_glLpksiLrJULf" version="12.7.4" type="github">
   <diagram id="kvuolwtk9OOCn_3RF2M_" name="第 1 页">
     <mxGraphModel dx="946" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="110" y="190" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WMp-n1UvFVCV1KFQ41O--6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="290" width="570" height="290" as="geometry" />
+          <mxGeometry x="110" y="290" width="570" height="380" as="geometry" />
         </mxCell>
         <mxCell id="WMp-n1UvFVCV1KFQ41O--12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="150" y="340" width="110" height="210" as="geometry" />
@@ -72,6 +72,15 @@
         </mxCell>
         <mxCell id="WMp-n1UvFVCV1KFQ41O--27" value="自动诊断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="415" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WMp-n1UvFVCV1KFQ41O--33" value="平台开发" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="560" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WMp-n1UvFVCV1KFQ41O--34" value="运维部分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="560" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WMp-n1UvFVCV1KFQ41O--35" value="治理部分" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="560" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
