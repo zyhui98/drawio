@@ -1,1 +1,55 @@
-<mxfile host="www.draw.io" modified="2020-02-25T07:30:49.904Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="zjtklhuF4vJ-qFZCbQ7M" version="12.7.4" type="github"><diagram id="kvuolwtk9OOCn_3RF2M_" name="第 1 页">ddHNEoIgEADgp+GuUJZn+7t08tCZkU2YQddBGq2nT2c1Y6wLs3y7sPwwkVX92clGX1GBZTxSPRMHxnm6SYZxhCfBNuYEpTOKKF4gNy+YMJr0YRS0QaFHtN40IRZY11D4wKRz2IVld7Rh10aWsIK8kHatN6O8Jt3z3eIXMKWeO8dJSplKzsXTTVotFXZfJI5MZA7RU1T1Gdjx7eZ3oXWnP9nPwRzU/seCIVj2HibBB4njGw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-25T07:50:24.998Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="qs1y5o8aLSCnKMYLcDyF" version="12.7.4" type="github">
+  <diagram id="kvuolwtk9OOCn_3RF2M_" name="第 1 页">
+    <mxGraphModel dx="946" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WMp-n1UvFVCV1KFQ41O--1" value="AppHelloBikeUser" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMp-n1UvFVCV1KFQ41O--2" value="&lt;span style=&quot;white-space: normal&quot;&gt;AppHelloBikeOrder&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMp-n1UvFVCV1KFQ41O--3" value="&lt;span style=&quot;white-space: normal&quot;&gt;AppHelloBikePayment&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMp-n1UvFVCV1KFQ41O--4" value="&lt;div&gt;&lt;span&gt;ES-CLIENT&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMp-n1UvFVCV1KFQ41O--6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="570" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="WMp-n1UvFVCV1KFQ41O--12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="110" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WMp-n1UvFVCV1KFQ41O--13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="130" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WMp-n1UvFVCV1KFQ41O--14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="130" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WMp-n1UvFVCV1KFQ41O--16" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WMp-n1UvFVCV1KFQ41O--17" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="150" as="sourcePoint" />
+            <mxPoint x="165" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMp-n1UvFVCV1KFQ41O--18" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="150" as="sourcePoint" />
+            <mxPoint x="400" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMp-n1UvFVCV1KFQ41O--19" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="619.5" y="150" as="sourcePoint" />
+            <mxPoint x="620" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
